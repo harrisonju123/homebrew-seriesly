@@ -1,6 +1,6 @@
 cask "seriesly" do
-  version "0.20.4"
-  sha256 "514f24d50d59e2d9fbcdb0d4efdb7c6b210a9f30703ff2e1ebcc8336ec2692a0"
+  version "0.21.0"
+  sha256 "7a11d621fdecebd56bd07e87ed7c0d70811b61649e6fb171391223cd3833e3f3"
 
   url "https://github.com/harrisonju123/seriesly-releases/releases/download/v#{version}/Seriesly.dmg"
   name "Seriesly"
